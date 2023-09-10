@@ -1,0 +1,39 @@
+.Header{
+    background: rgb(242, 241, 241);
+}
+
+.headerChild{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.logCateg{
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+    padding-left: 10px;
+}
+
+.LginZay{
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+    padding-right: 10px;
+}
+
+.h1use{
+    font-size: 14px;
+    font-weight: 100;
+}
+
+.categoriesIcons{
+   font-size: 22px;
+}
+
+.icons-login{
+    width: 30px;
+}
+

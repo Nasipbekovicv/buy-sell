@@ -1,0 +1,34 @@
+
+.controolSeachInput{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+    position: relative;
+}
+
+.inputSEarch{
+    width: 1200px;
+    height: 28px;
+    font-size: 16px;
+    border: 2px solid rgba(110, 110, 110, 0.115);
+    border-radius: 8px;
+    padding-left: 10px;
+}
+
+.inputSEarchButton{
+    position: absolute;
+    right: 130px;
+    border: none;
+    padding: 3px 8px;
+    
+    border-radius: 8px;
+    background: rgba(154, 154, 154, 0.101);
+}
+
+.iconsMini{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 50px;
+}
